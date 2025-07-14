@@ -1,26 +1,27 @@
-# IPL Power BI Dashboard Project
 
-This project explores IPL data from 2009 to 2018 using Power BI.
+## 🚀 How to Use
 
-## 📊 Key Features
-- Team-wise match wins
-- Toss decisions and outcomes
-- Top batsmen and bowlers
-- Venue performance
+1. Clone the repository  
+2. Open the `.pbix` file using Power BI Desktop  
+3. Ensure data paths are correct  
+4. Refresh the dataset  
+5. Explore dashboards!
 
-## 📂 Files
-- `FINAL PROJECT.pbix` – Power BI dashboard file
-- `POWER BI FINAL PROJECT PPT.pptx` – Presentation explaining the steps
+## 🎯 Goals & Impact
 
-## 📁 Dataset Source
-[Kaggle IPL Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+This project helped me:
+- Understand Power BI modeling
+- Analyze large sports data sets
+- Practice interactive dashboard design
 
-## 🛠 Tools Used
-- Power BI
-- Power Query (M)
-- DAX
+## ✨ Future Improvements
 
-## 📈 Insights
-- Mumbai Indians won the most matches between 2009–2018
-- SL Malinga: Top wicket-taker
-- Toss winners choosing to **field** won more than 55% of the time
+- Add data from 2019–2023  
+- Publish to Power BI web  
+- Integrate Python insights in Power BI
+
+## 📬 Contact
+
+**Tammana Prajitha**  
+📧 prajithatammana@example.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/tammana-prajitha-24a5ab298/)  
